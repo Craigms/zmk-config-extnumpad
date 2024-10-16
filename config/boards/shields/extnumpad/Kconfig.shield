@@ -1,0 +1,3 @@
+config SHIED_EXTNUMPAD
+    def_bool $(shields_list_contains, extnumpad)
+
