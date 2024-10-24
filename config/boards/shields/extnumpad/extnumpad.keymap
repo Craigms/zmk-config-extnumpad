@@ -15,7 +15,7 @@
 
         default_layer {
             bindings = <
-                &kp ESC,          &kp KP_EQL,         &kp LPAR,         &kp RPAR        &kp DEL,
+                &kp ESC,          &kp KP_EQL,         &kp LPAR,         &kp RPAR,        &kp DEL,
                 &kp S,   		  &kp M,    		  &kp KP_SLASH,  	&kp KP_ASTERISK, &kp BSPC,
                 &kp SPACE,        &kp KP_7,           &kp KP_8,    		&kp KP_9,  		&kp KP_MNS,
                 &kp TAB,          &kp KP_4,           &kp KP_5,    		&kp KP_6, 		&kp KP_PLS,
