@@ -1,6 +1,6 @@
 if SHIELD_EXTNUMPAD
 
-config ZMK_EXTNUMPAD
+config ZMK_KEYBOARD_NAME
     default "Craig Ext Numpad"
 
 endif
